@@ -7,3 +7,4 @@ feature-3
 new line
 from windows
 line-1
+line2
